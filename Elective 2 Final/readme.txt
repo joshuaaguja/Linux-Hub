@@ -1,4 +1,5 @@
 This website is about Linux, its history and different distros, it features the following:
+*index.html is the home page*
 
 1. Articles about Linus Torvalds, the creator of Linux, Ubuntu and the Unix OS.
 2. Responsive UI
